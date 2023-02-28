@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#op_1 {
+    text-align: center;
+}
+.item_1{
+    width: 100%;
+    position: relative;
+}
+#op_2{
+    width: 450px;
+    background-color: #e2b33d;
+    position: absolute;
+    top: 177px;
+    margin-left: 2px;
+}
+.anh_1{
+display: flex;
+justify-content: space-around;
+padding-top: 95px;
+}
+.anh_2{
+    display: flex;
+justify-content: space-around;
+padding-top: 60px;
+
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
